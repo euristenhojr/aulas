@@ -1,0 +1,12 @@
+
+
+Conversão de binário para decimal -> Multiplicando
+Conversão decimal para binário -> Dividindo
+
+Conversão hexadecimal para decimal -> Multiplicando
+Conversão Decimal para Hexadecimal -> Dividindo
+
+Conversão Octal para decimal -> Multiplicando
+Conversão Decimal para Octal -> Dividindo
+
+

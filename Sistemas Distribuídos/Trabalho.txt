@@ -1,0 +1,11 @@
+Criar um chat com 2 nós conversando via socket de forma segura, utilizando uma chave de criptografia que pode ser simétrica ou assimétrica.
+
+Critério de avaliação:
+
+
+
+2 Pontos caso consiga construir 2 nós conversando de forma simplex
+2 Pontos caso consiga construir 2 nós conversando de forma duplex
+4 Pontos caso consiga construir 2 nós conversando de forma duplex implementando o envio seguro da mensagem com uma chave criptográfica simétrica
+6 Pontos caso consiga construir 2 nós conversando de forma duplex implementando o envio seguro da mensagem com chave criptográfica assimétrica
+

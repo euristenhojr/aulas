@@ -1,0 +1,28 @@
+Dica 01: Sistemas Distribuídos - Modelos de Arquitetura
+Slide: 66 a 70
+
+Dica 02: Sistemas Distribuídos - API de Protocolos
+Slide: 19 a 32
+
+
+Dica 03: Sistemas Distribuídos - API de Protocolos
+Slide: 32 a 50 TCP e UDP
+
+
+Dica 04: Sistemas Distribuídos - Web Services
+SOAP e XML
+
+Dica 05: Sistemas Distribuídos - API de Protocolos
+Slide: 83 a 106
+
+Dica 06: Sistemas Distribuídos - Web Services
+Slide: 50 a 68
+
+Dica 07: Rest x SOAP
+
+Dica 08: Sistemas Distribuídos - Chatbots
+Slide: Entendas os conceitos do Slide 27 e 63
+
+
+
+

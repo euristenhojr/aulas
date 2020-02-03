@@ -1,0 +1,29 @@
+1) WS-ReliableMessaging, comente. (Sistemas Distribuídos - Web Services)
+
+
+2)Cite as Características do protocolo TCP e UDP e 4 problemas relacionados ao uso de cada protocolo. (Sistemas Distribuídos - API de Protocolos)
+
+
+3) Na API de protocolos, comente sobre a representação externa de dados e empacotamentos, Comunicação por Multicast, Virtualização de redes: redes de sobreposição, bem como Comunicação Unicast, Multicast e Broadcast (Sistemas Distribuídos - API de Protocolos)
+
+
+4) Na implementação de API's para protocolos de internet, existem algumas características na comunicação entre processos, que definem sua arquitetura escolhida, fale sobre: Passagem de Mensagens, Comunicação sincrona e assincrona, Destino de Mensagens, Segurança e Confiabilidade.
+(Sistemas Distribuídos - Modelos de Arquitetura)
+
+
+5) Fale sobre SOAP, WSDL e UDDI (Sistemas Distribuídos - Web Services)
+
+
+6) Explique a diferença entre REST x SOAP
+
+
+7) Em Sistemas Distribuídos, explique as diferentes técnicas dos elementos arquitetônico quanto ao posicionamento. Mapeamento de Serviços em vários servidores, uso de chache, códido móvel, agentes móveis.
+(Sistemas Distribuídos - Modelos de Arquitetura)
+
+
+8) Quais as diferenças entre XML e JSON (Sistemas Distribuídos - XML/JSON)
+
+
+9) Explique as características de utilização do SOAP, XML e JSON. (Sistemas Distribuídos - Web Services) (Sistemas Distribuídos - XML - JSON)
+(Sistemas Distribuídos - API de Protocolos)
+
